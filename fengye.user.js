@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        丰叶静默示例
 // @namespace   https://github.com/188125302/fengye
-// @version     1.0.0          <!-- 每次发版+1 -->
+// @version     1.0.1          <!-- 每次发版+1 -->
 // @description 静默自动更新 + 正式功能演示
 // @author      188125302
 // @match       https://www.baidu.com/*
