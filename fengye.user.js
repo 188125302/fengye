@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name        丰叶静默示例
 // @namespace   https://github.com/188125302/fengye
-// @version     1.0.1
+// @version     1.0.0
 // @description 静默自动更新
 // @author      188125302
 // @match       https://www.baidu.com/*
 // @grant       GM_getValue
 // @grant       GM_setValue
-// @updateURL   https://raw.githubusercontent.com/188125302/fengye/main/fengye.user.js
-// @downloadURL https://raw.githubusercontent.com/188125302/fengye/main/fengye.user.js
+// @updateURL   https://raw.github.com/188125302/fengye/main/fengye.user.js
+// @downloadURL https://raw.github.com/188125302/fengye/main/fengye.user.js
 // ==/UserScript==
 
 (function(){
